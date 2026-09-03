@@ -2,8 +2,8 @@
 
 Agience is now available through its individual parts: 
 
-| | |
-|---|---|
+| Repository | Purpose |
+| --- | --- |
 | [Agience Origin](https://github.com/Agience/agience-origin) | Identity and authority. |
 | [Agience Prism](https://github.com/Agience/agience-prism-py) | SDK for Python. |
 | [Agience Mantle](https://github.com/Agience/agience-mantle) | Information storage substrate. |
