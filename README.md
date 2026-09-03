@@ -1,3 +1,19 @@
+## This repository is archived and no longer maintained.
+
+Agience is now available through its individual parts: 
+
+| | |
+|---|---|
+| [Agience Origin](https://github.com/Agience/agience-origin) | Identity and authority. |
+| [Agience Prism](https://github.com/Agience/agience-prism-py) | SDK for Python. |
+| [Agience Mantle](https://github.com/Agience/agience-mantle) | Information storage substrate. |
+| [Agience Crystal](https://github.com/Agience/agience-crystal) | Signal condensation and routing. |
+| [Agience Ember](https://github.com/Agience/agience-ember) | Observation and workflow engine. |
+| [Agience Chorus](https://github.com/Agience/agience-chorus) | Domain and platform operators. |
+| [Agience Observe](https://github.com/Agience/agience-observe) | Agience cross-platform installables. |
+
+---
+
 # Agience
 
 **The operating system that AI workflows trust.**
